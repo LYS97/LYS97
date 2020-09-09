@@ -1,16 +1,22 @@
-### Hi there 👋
+|这个作业属于哪个课程|https://edu.cnblogs.com/campus/gdgy/Networkengineering1834|
+|--------|---------|
+|这个作业要求在哪里|https://edu.cnblogs.com/campus/gdgy/Networkengineering1834/homework/11147|
+|这个作业的目标|注册博客园并用markdown写一份随笔，注册git并学会使用markdown|
 
-<!--
-**LYS97/LYS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+老师说让助教记住可以获得高分
+![](https://img2020.cnblogs.com/blog/2148293/202009/2148293-20200909231821133-550986059.jpg)
 
-Here are some ideas to get you started:
+ **自我介绍**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 姓名：李宇胜
+* 班级：2018级网络工程3班
+* 性别：男 
+* 爱好：游泳看书，但是现在大学城的游泳池基本都不开放就很不好
+
+
+**软工5问**
+* 如何才能学好软件工程
+* 软件工程这门课是偏向于理论的还是偏向于实践的
+* 测试和调优在软件开发过程中占的成本是多少
+* 学习软件工程对就业的好处有多大
+* 软件工程的考试难度大不大
